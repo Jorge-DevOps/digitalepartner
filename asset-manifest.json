@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digitalepartner/static/css/main.b6cf57e3.chunk.css",
+    "main.js": "/digitalepartner/static/js/main.ff0334f2.chunk.js",
+    "main.js.map": "/digitalepartner/static/js/main.ff0334f2.chunk.js.map",
+    "runtime-main.js": "/digitalepartner/static/js/runtime-main.61e3b645.js",
+    "runtime-main.js.map": "/digitalepartner/static/js/runtime-main.61e3b645.js.map",
+    "static/js/2.48f5c61e.chunk.js": "/digitalepartner/static/js/2.48f5c61e.chunk.js",
+    "static/js/2.48f5c61e.chunk.js.map": "/digitalepartner/static/js/2.48f5c61e.chunk.js.map",
+    "static/js/3.3ea62c75.chunk.js": "/digitalepartner/static/js/3.3ea62c75.chunk.js",
+    "static/js/3.3ea62c75.chunk.js.map": "/digitalepartner/static/js/3.3ea62c75.chunk.js.map",
+    "index.html": "/digitalepartner/index.html",
+    "static/css/main.b6cf57e3.chunk.css.map": "/digitalepartner/static/css/main.b6cf57e3.chunk.css.map",
+    "static/js/2.48f5c61e.chunk.js.LICENSE.txt": "/digitalepartner/static/js/2.48f5c61e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61e3b645.js",
+    "static/js/2.48f5c61e.chunk.js",
+    "static/css/main.b6cf57e3.chunk.css",
+    "static/js/main.ff0334f2.chunk.js"
+  ]
+}
